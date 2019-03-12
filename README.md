@@ -1,4 +1,4 @@
-# Let's study Java
+# Let's study Java!
 01.Study <br/>
 - 자바에 대한 기본적인 이론 지식과 이를 실제 예시 코드를 통해 배워보는 폴더 <br/>
 
